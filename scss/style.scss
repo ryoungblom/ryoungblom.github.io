@@ -694,7 +694,11 @@ img {
 
 .hero-slides {
     .single-hero-slide {
-        height: 950px;
+
+        //height: 950px;
+        //Custom
+        height: 650px;
+
         position: relative;
         z-index: 1;
         padding: 0 40px 100px;

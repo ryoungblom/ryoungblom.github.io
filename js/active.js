@@ -61,8 +61,14 @@
             margin: 0,
             loop: true,
             dots: true,
+
+            //Custom
+            //autoplay: true,
+            //autoplayTimeout: 5000,
+            //smartSpeed: 1000,
+
             autoplay: true,
-            autoplayTimeout: 5000,
+            autoplayTimeout: 15000,
             smartSpeed: 1000,
             responsive: {
                 0: {
