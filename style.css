@@ -1466,4 +1466,29 @@ img {
 
 /* The end */
 
+/******CUSTOM CSS  ***********/
+
+#contactBreak {
+  margin-bottom: 90px;
+  height: 20px;
+  width: 100%;
+  background-color: grey;
+}
+
+.coverP {
+
+  background-color: rgb(70, 70, 70, .6);
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+.coverPx {
+
+  background-color: rgb(70, 70, 70, .5);
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
 /*# sourceMappingURL=style.css.map */
