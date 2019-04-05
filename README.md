@@ -1,2 +1,0 @@
-# ryoungblom.github.io
-portfolio
