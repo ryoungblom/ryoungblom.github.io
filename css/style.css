@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -30,6 +30,18 @@ a {
     color: #2c98f0;
     outline: none;
     text-decoration: none !important; }
+
+/*****CUSTOM*****/
+.blackLink {
+  color: black !important;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s; }
+  a:hover, a:active, a:focus {
+    color: #2c98f0;
+    outline: none;
+    text-decoration: none !important;
+}
 
 p {
   margin-bottom: 1.5em; }
@@ -208,7 +220,8 @@ figure {
         display: inline;
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
-          color: rgba(255, 255, 255, 0.3);
+          /*color: rgba(255, 255, 255, 0.3);*/
+          color: black;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
